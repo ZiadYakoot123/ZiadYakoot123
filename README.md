@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Embedded+Systems+Developer;Builder+of+AI-Powered+Hardware+Solutions;Smart+Glasses+%7C+Medical+AI+%7C+Edge+Computing)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-yakoot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ziadyakoot)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Z.Yakoot72167@student.aast.edu)
 
 </div>
