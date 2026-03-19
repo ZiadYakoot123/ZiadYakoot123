@@ -1,107 +1,108 @@
-👋 Hi, I'm Ziad Yakoot
+<div align="center">
 
-🚀 AI Engineer | Embedded Systems Developer | Innovator
-builder of real-world AI-powered hardware solutions
+# 👋 Hi, I'm Ziad Yakoot
 
-🧠 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Embedded+Systems+Developer;Builder+of+AI-Powered+Hardware+Solutions;Smart+Glasses+%7C+Medical+AI+%7C+Edge+Computing)](https://git.io/typing-svg)
 
-I’m an engineer passionate about building AI-driven products that solve real problems, especially in healthcare and smart devices.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-yakoot)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Z.Yakoot72167@student.aast.edu)
 
-🔬 Developing AI-powered medical devices
+</div>
 
-👓 Creator of smart glasses for visually impaired users
+---
 
-🩺 Working on vein detection systems using computer vision & embedded AI
+## 🧠 About Me
 
-🤖 Building AI agents, chatbots, and automation systems
+I'm an engineer passionate about building **AI-driven products** that solve real problems, especially in **healthcare** and **smart devices**.
 
-⚙️ Strong background in embedded systems, Raspberry Pi, and hardware integration
+- 🔬 Developing AI-powered medical devices
+- 👓 Creator of smart glasses for visually impaired users
+- 🩺 Working on vein detection systems using computer vision & embedded AI
+- �� Building AI agents, chatbots, and automation systems
+- ⚙️ Strong background in embedded systems, Raspberry Pi, and hardware integration
 
-🚀 My Projects
-👓 Smart Glasses (AI Vision Assistant)
+---
 
-Object detection & scene understanding
+## 🚀 My Projects
 
-OCR for reading books & signs
+### 👓 Smart Glasses (AI Vision Assistant)
+> An assistive wearable device that brings independence to visually impaired users.
 
-Real-time voice feedback
+- 🎯 Object detection & scene understanding
+- 📖 OCR for reading books & signs
+- 🔊 Real-time voice feedback
+- 🌍 Translation features
 
-Translation features
+### 🔬 AI Medical Endoscope
+> AI-enhanced endoscopy system that assists doctors in real-time diagnosis.
 
+- 🧠 Detects potential lesions using AI
+- 🔭 Switch to microscopic inspection mode
+- 🩺 Assists doctors in diagnosis
 
-🔬 AI Medical Endoscope
+### 🧪 AI Agents & Automation
+> End-to-end intelligent systems for business and industrial use cases.
 
-Detects potential lesions using AI
+- 💬 Customer service bots
+- 📦 Inventory Management Systems
+- 📊 Data analysis systems (BMS / HVAC / industrial)
 
-Switch to microscopic inspection mode
+---
 
-Assists doctors in diagnosis
+## 💼 Services I Offer
 
-🧪 AI Agents & Automation
+| 🤖 AI & Machine Learning | ⚙️ Embedded Systems | 🏥 Healthcare Technology | 🌐 Software Development |
+|:---|:---|:---|:---|
+| Custom AI models (CV, NLP) | Raspberry Pi / IoT solutions | Medical device prototyping | Full-stack apps (React + Python) |
+| Chatbots & AI agents | Sensor integration | AI-assisted diagnostics | API development |
+| Local LLM deployment | Real-time AI on edge devices | Smart wearable solutions | Automation systems |
 
-Customer service bots
+---
 
-Inventory Management Systems
+## 🛠️ Tech Stack
 
-Data analysis systems (BMS / HVAC / industrial)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-💼 Services I Offer
-🤖 AI & Machine Learning
+### AI & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-Custom AI models (Computer Vision, NLP)
+### Embedded & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-Chatbots & AI agents
+---
 
-Local LLM deployment
+## 📊 GitHub Stats
 
-⚙️ Embedded Systems
+<div align="center">
 
-Raspberry Pi / IoT solutions
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadYakoot123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadYakoot123&layout=compact&theme=tokyonight&hide_border=true)
 
-Sensor integration (IR, ultrasonic, cameras)
+</div>
 
-Real-time AI on edge devices
+---
 
-🏥 Healthcare Technology
+## 📈 Vision
 
-Medical device prototyping
+> *"My goal is to build innovative AI-powered products that impact the world."*
 
-AI-assisted diagnostics
+🏥 **Healthcare** &nbsp;|&nbsp; ♿ **Accessibility** &nbsp;|&nbsp; ⚡ **Smart Automation**
 
-Smart wearable solutions
+---
 
-🌐 Software Development
+## 📫 Contact Me
 
-Full-stack apps (React + Python / Node.js)
+<div align="center">
 
-API development
+📧 **Email:** [Z.Yakoot72167@student.aast.edu](mailto:Z.Yakoot72167@student.aast.edu)
 
-Automation systems
-
-🛠️ Tech Stack
-
-Languages:
-Python • C++ • JavaScript • C
-
-AI & Data:
-TensorFlow • PyTorch • OpenCV • YOLO • NLP
-
-Embedded & Hardware:
-Raspberry Pi • Arduino • Sensors • Edge AI
-
-
-📈 Vision
-
-My goal is to build innovative AI-powered products that impact:
-
-Healthcare 🏥
-
-Accessibility ♿
-
-Smart automation ⚡
-
-📫 Contact Me
-
-📧 Email: Z.Yakoot72167@student.aast.edu
-
-
+</div>
