@@ -104,5 +104,6 @@ I'm an engineer passionate about building **AI-driven products** that solve real
 <div align="center">
 
 📧 **Email:** [Z.Yakoot72167@student.aast.edu](mailto:Z.Yakoot72167@student.aast.edu)
+                or  [ziadyakout6@gmail.com) 
 
 </div>
